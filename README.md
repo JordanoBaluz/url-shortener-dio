@@ -41,3 +41,9 @@ como por exemplo dentro do CMD -> IPCONFIG,
 o IP não irá funcionar para gerar a conexão entre a aplicação e o MongoDB.
 Necessário utilizar o seu endereço público, que pode ser obtido no site abaixo:\
 <https://www.whatismyip.com/>
+
+
+Referências:\
+https://mongoosejs.com/docs/migrating_to_6.html#no-more-deprecation-warning-options
+https://www.mongodb.com/community/forums/t/cant-connect-to-mongodb-could-not-connect-to-any-servers-in-your-mongodb-atlas-cluster/9624/3
+https://www.npmjs.com/package/@typegoose/typegoose
